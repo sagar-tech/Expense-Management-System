@@ -11,6 +11,14 @@ This project is an expense management system that consists of a Streamlit fronte
 - **requirements.txt**: Lists the required Python packages.
 - **README.md**: Provides an overview and instructions for the project.
 
+**## UI**
+- ![image](https://github.com/user-attachments/assets/ede1546d-63d0-4d88-98eb-0e6aac248b0a)
+- ![image](https://github.com/user-attachments/assets/c81fbfdf-1915-47d1-abf7-026ae2630c25)
+- ![image](https://github.com/user-attachments/assets/dafa8cc2-51f2-40ac-b675-cbd6f6017cab)
+
+
+
+
 
 ## Setup Instructions
 
